@@ -1,2 +1,2 @@
 # firstDay
-this is a basic base to save my study note everyday.
+this is a basic library to save my study note everyday.
